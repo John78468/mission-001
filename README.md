@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Bienvenue sur le projet_01
+
+gem ajouté 'rspec'
